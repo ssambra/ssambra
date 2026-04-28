@@ -1,6 +1,14 @@
 # Melissa Rachel Wozney | Threat Sentinel & Identity Auditor
 ### Triple Master’s Candidate (AI / Data / Cybersecurity)
 
+## Auditors: start here — 1-page evidence pack
+> **NIS2 Art 21 + DORA Art 6 mapping** — free PDF, no form: [Download from LinkedIn Featured](https://www.linkedin.com/in/melissa-wozney/details/featured/)
+
+**Operation Sentinel** is a Python lab for real-time privilege escalation detection. Built for EU fintech audit evidence.
+- 30-min Loom demo in Featured
+- Maps to NIS2 Art 21, DORA Art 6/11
+- Contact: Nysarria@yahoo.com
+
 > "Most security breaches don't start with a line of code; they start with a human decision."
 
 I bridge the gap between behavioral intelligence and technical defense. As an Identity Auditor, I specialize in the "Human Element" of the security stack, developing custom tools to secure data sovereignty and mitigate insider threats.
