@@ -12,7 +12,7 @@ Free 1-pager: NIS2 Art 21 evidence mapping → see Featured.
  
 Remote delivery model: EU timezone overlap 9am-3pm CET for all contracts.
  
-How:
+How: 
 Python automation for privilege escalation detection → mapped to NIS2 Art 21
 Zero Trust IAM reviews that auditors love
 Behavioral threat intel from 9yrs teaching compliance in KSA/China/Korea
