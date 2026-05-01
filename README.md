@@ -27,7 +27,7 @@ I move beyond spreadsheets by scripting compliance. if e.role == 'admin' and e.h
  
 Open to: Remote, hybrid, or on-site B2B IAM/GRC contracts, roles and fractional CISO advisory. Primary overlap CET 9am-3pm, based in Canada, eligible to work via EOR in Spain/Poland.
 
-Career break 2022-2025 in Canada, due to international human rights relocation. Now cleared to work via Canadian EOR
+Relocated to Canada in 2022. Built Operation Sentinel and retrained in cybersecurity from 2023. Now cleared to work via Canadian EOR
 
 ## Auditors: start here — 1-page evidence pack
 > **NIS2 Art 21 + DORA Art 6 mapping** — free PDF, no form: [Download from LinkedIn Featured](https://www.linkedin.com/in/melissa-wozney/details/featured/)
