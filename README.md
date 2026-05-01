@@ -1,7 +1,7 @@
 # Melissa Rachel Wozney | Threat Sentinel & Identity Auditor
 ### Triple Master’s Candidate (AI / Data / Cybersecurity)
 
-Most EU breaches start with a human decision, not code. I build Python detectors that map to DORA Art 10 andprove privilege risk for Art 6. Former BC Air Search & Rescue ops → I write continuity playbooks that work whensystem's don't.
+Most EU breaches start with a human decision, not code. I build Python detectors that map to DORA Art 10 and prove privilege risk for Art 6. Former BC Air Search & Rescue ops → I write continuity playbooks that work when system's don't.
 
 I help remote-first fintech and SaaS companies in Spain/Poland pass DORA + NIS2 audits by fixing the human layer of IAM.
  
