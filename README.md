@@ -19,7 +19,7 @@ Behavioral threat intel from 9yrs teaching compliance in KSA/China/Korea
  
 Proof: Built "Operation Sentinel" - Python lab catching identity hijacking in real-time. Reduced faculty phishing 40% via training. 15K+ followers for EU compliance labs.
  
-Tech: Python, Wazuh, Splunk, Recorded Future | Audits: DORA Art 6/11, NIS2 Art 21 | Certs: Cisco Certified Ethical Hacker Apr 2026, Cyber Threat Management Apr 2026,  ISC2 Certified in Cybersecurity (CC) AWS 2024-2026
+Tech: Python, Wazuh, Splunk, Recorded Future | Audits: DORA Art 6/11, NIS2 Art 21 | Certs: Cisco Certified Ethical Hacker Apr 2026, Cyber Threat Management Apr 2026,  ISC2 Certified in Cybersecurity (CC), AWS 2024-2026
 
 Technical Approach:
 Example:
