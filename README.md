@@ -23,7 +23,7 @@ Tech: Python, Wazuh, Splunk, Recorded Future | Audits: DORA Art 6/11, NIS2 Art 2
 
 Technical Approach:
 Example:
-I move beyond spreadsheets by scripting compliance. if e.role == 'admin' and e.hour not in range(9,15): flag(e) — This is how I turn DORA Article 10 into a testable reality.
+I move beyond spreadsheets by scripting compliance. if e.role == 'admin' and e.hour not in range(9,16): flag(e) — This is how I turn DORA Article 10 into a testable reality.
  
 Open to: Remote, hybrid, or on-site B2B IAM/GRC contracts, roles and fractional CISO advisory. Primary overlap CET 9am-3pm, based in Canada, eligible to work via EOR in Spain/Poland.
 
