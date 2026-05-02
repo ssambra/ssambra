@@ -5,7 +5,7 @@ Most EU breaches start with a human decision, not code. I build Python detectors
 
 I help remote-first fintech and SaaS companies in Spain/Poland pass DORA + NIS2 audits by fixing the human layer of IAM.
 
-Direct: nysarria@yahoo.com | GitHub: https://github.com/ssambra | DMs open - I reply in 24h
+Direct: MeLiSsARaC@proton.me| GitHub: https://github.com/ssambra | DMs open - I reply in 24h
  
 
 Free 1-pager: NIS2 Art 21 evidence mapping → see Featured.
