@@ -51,7 +51,7 @@ I bridge the gap between behavioral intelligence and technical defense. As an Id
 * **Focus:** IAM Auditing, Behavioral Threat Intelligence, macOS Hardening (M-Series).
 * **Certifications:** Google Cybersecurity Professional, Cisco Ethical Hacker.
 Technical Call-out:
-* if e.role == "admin" and e.hour not in range(9,15):
+* if e.role == "admin" and e.hour not in range(9,16):
     flag(e, "off-hours admin")
 
 ---
