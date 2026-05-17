@@ -1,6 +1,14 @@
 # Melissa Rachel Wozney | Threat Sentinel & Identity Auditor
 ### Triple Master’s Candidate (AI / Data / Cybersecurity)
 
+# Melissa Wozney — Operation Sentinel
+
+I learned zero trust from an ant farm, not a SOC.
+
+**Main lab:** operation-sentinel
+**Labs:** soc-detection-labs  
+**Playbook:** rsoc-playbook
+
 Most EU breaches start with a human decision, not code. I build Python detectors that map to DORA Art 10 and prove privilege risk for Art 6. Former BC Air Search & Rescue ops → I write continuity playbooks that work when systems don't.
 
 I help remote-first fintech and SaaS companies in Spain/Poland pass DORA + NIS2 audits by fixing the human layer of IAM.
